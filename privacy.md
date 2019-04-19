@@ -1,6 +1,6 @@
-**Last Updated:**​ ​04/12/2019
+**Last Updated:** 04/19/2019
 
-Privacy Policy of NEAR Inc		
+# Privacy Policy of NEAR Inc		
 
 We may change this Privacy Statement from time to time. If we make changes, we will notify you by revising the date at the top of the Privacy Statement and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Statement whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you. 
 
