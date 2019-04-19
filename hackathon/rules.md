@@ -94,7 +94,7 @@ By entering the Contest, you represent and warrant that you either own all of yo
  Recordings: You agree that Sponsor and its designees may interview, videotape, photograph and otherwise record or capture you during your participation in the Contest (the "Recordings"), and, in addition to and together with the permission granted in Section 9 and this Section 10, you grant Sponsor and its designees the right to use the Recordings (including your name, hometown, aural and visual license), and derivative works thereof, in whole or in part, for advertising, social media, Web advertising, on signage, direct mail and for any other promotional or advertising purpose or any instructional/educational purpose without further permission or compensation. You acknowledge that Sponsor will own full right and title to the Recordings, including the copyright in and to such Recordings.
 
 ## Privacy: 
-See Sponsor’s Privacy Policy at https://www.nearprotocol.com/privacy-policy/.
+See Sponsor’s Privacy Policy at https://near.ai/privacy-policy/.
 
 ## Winner List and Rules Request: 
 For a copy of the winner list, send an email to peter@nearprotocol.com for arrival after May 11, 2018 and before April 27, 2020 with the email subject line: 2019 NEAR Protocol Hackathon - Winner List Request. To obtain a copy of these Official Rules, visit https://nearprotocol.com or email peter@nearprotocol.com before August 26, 2019 with the email subject line: 2019 NEAR Protocol Hackathon Contest - Official Rules Request.
