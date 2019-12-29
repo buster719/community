@@ -18,6 +18,8 @@ This is list of ideas for hackathon, feel free to choose one or come up with you
 * Wechat Mini app: login with NEAR and exchange NFTs with other users in the group.
 * NFT for attending meetup: QR code for meetup organizers that allows attendees to scan and claim the specific NFT of the specific event.
 * Marketplace for meetup organizers and speakers. Organizers can create an event and offer slots for speakers. Speakers either use auction mechanic or offer to speak and have attendees vote for who to listen to.
+* Maskbook like plugin:use the API of those social products already have and expand the influence of blockchain by their network. Educate people why privacy matters and what blockchain can do.
+* Dating App: With smart-contract, couples can create some new relationship other than marriage. It is also a use case of DAO.
 
 ## Enterprise
 
@@ -29,9 +31,11 @@ The ideas here are all about possible contracts that can interact between public
 
 * Education: a private shard maintains grades and attendance for students, public shard contains different applications that can leverage this information. For example scholarship that is given out on a regular basis based on the grades.
 * Supply chain: across two private shards, passing information about components of the bigger item while maintaining proof of the components origin.
+* Pic ID：a platform for people to record their ownership of some pictures onchain.you can only use the picture taken by yourself but not download other's photo. If some sellers really want to use some photos from others, they must prove that that's the same product and pay to the author.
 
 ## Other
 
 * Food ordering: three party marketplace on the blockchain, which connects restaurats, delivery and users. As food is ordered from specific resturant, delivery can pick up order on this marketplace.
 * Tracking packages: the supplier posts upgrades encrypted by public key of the user, only given user can decrypt and check the status.
 * Video sharing: currently many centralized services are starting to block content about blockchain. This service can store video content on IPFS or similar file storage solution and use NEAR for discovery, payments and ownership.
+* event tickets: limited number of tickets, and can set rules for trade activities. cause in China, the ticket resell is a nightmare.
